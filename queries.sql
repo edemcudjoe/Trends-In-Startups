@@ -1,3 +1,4 @@
+-- SQLite
 SELECT * FROM startups;
 
 SELECT COUNT(*) FROM startups;
